@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\registrodescubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:registrodescubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\registrocuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:registrocuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\registrocuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:registrocuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\registrodescubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:registrodescubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|c:\\users\\brian\\onedrive\\escritorio\\programacion\\poo\\tp_integrador\\ejercicio 9\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|c:\\users\\brian\\onedrive\\escritorio\\programacion\\poo\\tp_integrador\\ejercicio 9\\observatoriodll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|c:\\users\\brian\\onedrive\\escritorio\\programacion\\poo\\tp_integrador\\ejercicio 9\\administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\planeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\isistemaplanetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\isistemaplanetario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\cuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\cuerpoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\observatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\observatorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\deleditarregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\deleditarregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\descubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\descubridor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\elementosatmosfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\elementosatmosfera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\satelite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\satelite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\estrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\estrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6438A1D-2B21-4967-A1C7-E553D9E9E3F8}|Ejercicio 9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\iconstelacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\iconstelacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\ibinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\ibinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\tipoestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\tipoestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\observatoriodll\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5156850E-E10F-4222-96F9-ED88258DED32}|ObservatorioDLL\\ObservatorioDLL.csproj|solutionrelative:observatoriodll\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ClassDiagram1.cd",
+              "RelativeToolTip": "ObservatorioDLL\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-07-09T21:53:41.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "delEditarRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\delEditarRegistro.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\delEditarRegistro.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\delEditarRegistro.cs",
+              "RelativeToolTip": "ObservatorioDLL\\delEditarRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T05:10:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Observatorio.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Observatorio.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Observatorio.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Observatorio.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Observatorio.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA5wCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:40:10.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Registro.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Registro.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Registro.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Registro.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:09:13.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Descubridor.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Descubridor.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Descubridor.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Descubridor.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Descubridor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvyUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:21:00.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Personal.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Personal.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Personal.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Personal.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Personal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:26:29.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CuerpoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\CuerpoCeleste.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\CuerpoCeleste.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\CuerpoCeleste.cs",
+              "RelativeToolTip": "ObservatorioDLL\\CuerpoCeleste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:07:09.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Estrella.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Estrella.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Estrella.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Estrella.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Estrella.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwAoAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:04:34.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Planeta.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Planeta.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Planeta.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Planeta.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Planeta.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAMwGMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:26:36.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Satelite.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Satelite.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Satelite.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Satelite.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Satelite.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:04:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ElementosAtmosfera.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ElementosAtmosfera.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\ElementosAtmosfera.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ElementosAtmosfera.cs",
+              "RelativeToolTip": "ObservatorioDLL\\ElementosAtmosfera.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:55:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IConstelacion.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\IConstelacion.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\IConstelacion.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\IConstelacion.cs",
+              "RelativeToolTip": "ObservatorioDLL\\IConstelacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:16:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISistemaPlanetario.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ISistemaPlanetario.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\ISistemaPlanetario.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\ISistemaPlanetario.cs",
+              "RelativeToolTip": "ObservatorioDLL\\ISistemaPlanetario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwA8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:34:49.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBinario.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\IBinario.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\IBinario.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\IBinario.cs",
+              "RelativeToolTip": "ObservatorioDLL\\IBinario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:40:03.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TipoEstrella.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\TipoEstrella.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\TipoEstrella.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\TipoEstrella.cs",
+              "RelativeToolTip": "ObservatorioDLL\\TipoEstrella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:20:14.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Color.cs",
+              "RelativeDocumentMoniker": "ObservatorioDLL\\Color.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\ObservatorioDLL\\Color.cs",
+              "RelativeToolTip": "ObservatorioDLL\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T22:19:52.648Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T21:52:27.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroCuerpoCeleste.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroCuerpoCeleste.cs",
+              "RelativeDocumentMoniker": "RegistroCuerpoCeleste.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroCuerpoCeleste.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroCuerpoCeleste.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:49:37.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroDescubridor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroDescubridor.cs",
+              "RelativeDocumentMoniker": "RegistroDescubridor.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroDescubridor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroDescubridor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:50:01.03Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Administracion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Administracion.cs",
+              "RelativeDocumentMoniker": "Administracion.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Administracion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Administracion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:50:13.792Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 426,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:06:57.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowD4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:54:55.859Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Administracion.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Administracion.cs",
+              "RelativeDocumentMoniker": "Administracion.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\Administracion.cs",
+              "RelativeToolTip": "Administracion.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:53:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroCuerpoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroCuerpoCeleste.cs",
+              "RelativeDocumentMoniker": "RegistroCuerpoCeleste.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroCuerpoCeleste.cs",
+              "RelativeToolTip": "RegistroCuerpoCeleste.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAmwGgBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:52:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistroDescubridor.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroDescubridor.cs",
+              "RelativeDocumentMoniker": "RegistroDescubridor.cs",
+              "ToolTip": "C:\\Users\\brian\\OneDrive\\Escritorio\\Programacion\\POO\\TP_Integrador\\Ejercicio 9\\RegistroDescubridor.cs",
+              "RelativeToolTip": "RegistroDescubridor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:54:25.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

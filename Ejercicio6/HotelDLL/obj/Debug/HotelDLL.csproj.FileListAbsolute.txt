@@ -1,0 +1,6 @@
+D:\repositorios\Ejercicio6\HotelDLL\bin\Debug\HotelDLL.dll
+D:\repositorios\Ejercicio6\HotelDLL\bin\Debug\HotelDLL.pdb
+D:\repositorios\Ejercicio6\HotelDLL\obj\Debug\HotelDLL.csproj.AssemblyReference.cache
+D:\repositorios\Ejercicio6\HotelDLL\obj\Debug\HotelDLL.csproj.CoreCompileInputs.cache
+D:\repositorios\Ejercicio6\HotelDLL\obj\Debug\HotelDLL.dll
+D:\repositorios\Ejercicio6\HotelDLL\obj\Debug\HotelDLL.pdb

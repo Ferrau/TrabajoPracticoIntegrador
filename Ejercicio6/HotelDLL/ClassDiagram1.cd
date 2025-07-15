@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HotelDLL.HotelTuristico">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAABAAAAAAAACAAAQQAIAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>HotelTuristico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelDLL.Habitacion">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAATAAAAAIAAABAAAAAAAAEAAABAACAAAACAAABAAQ=</HashCode>
+      <FileName>Habitacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelDLL.Reserva">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAEAAAgEBBAEABIAAAAECAABgAAkIAAIMAAAAAA=</HashCode>
+      <FileName>Reserva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelDLL.Huesped">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FCAAAAAAAAAAAAQEAAAAgQAAAAEAAgAAAAAAAAIAQoA=</HashCode>
+      <FileName>Huesped.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelDLL.ReservaConAdicional">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReservaConAdicional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelDLL.Adicional">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAgAAEAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Adicional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="HotelDLL.TipoHabitacion">
+    <Position X="5.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAEAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoHabitacion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

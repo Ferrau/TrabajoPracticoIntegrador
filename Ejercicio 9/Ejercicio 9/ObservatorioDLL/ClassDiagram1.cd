@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ObservatorioDLL.Observatorio">
+    <Position X="0.5" Y="0.5" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQEIAABAAEAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAQ=</HashCode>
+      <FileName>Observatorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.Registro">
+    <Position X="5" Y="0.5" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAgAAQgAAAAAQAEAAAAAAAwAA=</HashCode>
+      <FileName>Registro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.CuerpoCeleste">
+    <Position X="11.5" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAgBAAAAAAAAAAAAAAAIAAAIAQiA=</HashCode>
+      <FileName>CuerpoCeleste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.Estrella">
+    <Position X="0.5" Y="3.5" Width="6.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgABAAAAAAYAAAEAAAACBEAAAAFAACAAAQAIAAAABA=</HashCode>
+      <FileName>Estrella.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObservatorioDLL.Planeta">
+    <Position X="8" Y="3.75" Width="5.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAgAIEACAAAAAAgEAAAAAQJBgRAEAAAAAAQAAAgAAQA=</HashCode>
+      <FileName>Planeta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ObservatorioDLL.Satelite">
+    <Position X="14.25" Y="4" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Satelite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.Descubridor">
+    <Position X="9.25" Y="8" Width="4.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAASEAAAAAAAAAAAAAAAAAAAAABIAAIA=</HashCode>
+      <FileName>Descubridor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.Personal">
+    <Position X="14.75" Y="8.25" Width="5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObservatorioDLL.ElementosAtmosfera">
+    <Position X="4" Y="9.75" Width="5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAgAAAAAgEAACAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ElementosAtmosfera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ObservatorioDLL.ISistemaPlanetario">
+    <Position X="0.5" Y="7.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEACAAAAAAAAAAAAAQBAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISistemaPlanetario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObservatorioDLL.IBinario">
+    <Position X="0.5" Y="10.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>IBinario.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObservatorioDLL.IConstelacion">
+    <Position X="14.25" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>IConstelacion.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ObservatorioDLL.Color">
+    <Position X="6.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAACQQAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Color.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ObservatorioDLL.TipoEstrella">
+    <Position X="5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoEstrella.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="ObservatorioDLL.delEditarRegistro">
+    <Position X="16" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>delEditarRegistro.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

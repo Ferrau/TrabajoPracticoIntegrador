@@ -1,0 +1,12 @@
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\bin\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\bin\Debug\ObservatorioDLL.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\bin\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\bin\Debug\ObservatorioDLL.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\ObservatorioDLL\obj\Debug\ObservatorioDLL.pdb

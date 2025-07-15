@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejercicio11.Agenda" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAgAAAABAAAAAA=</HashCode>
+      <FileName>Agenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.CostoTratamientoForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAACQAAAAA=</HashCode>
+      <FileName>CostoTratamientoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Derivacion" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECQAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Derivacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.DerivacionForm" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgCAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>DerivacionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Diagnostico" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAARAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Diagnostico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Especialidad" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Especialidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.EspecialidadesGananciaForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>EspecialidadesGananciaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.EspecialidadesPacientesForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>EspecialidadesPacientesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.EspecialidadForm" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAECAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>EspecialidadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Estudio" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAgACAIAAAAgAAAAAAAQAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Estudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.EstudioForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>EstudioForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Form1" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgACAAAAAiAAgACEAAIFAIAAAAIgAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.GestorHospital" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAEggAAQAAAQACAAAAAAAAAIIAQgAAQAAAgAgAALA=</HashCode>
+      <FileName>GestorHospital.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Ejercicio11.HistoriaClinicaForm" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>HistorialClinicaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.HistorialClinico" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAEAACAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>HistorialClinico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Medico" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAAAAAAAAEAAAAgAAAAAAAAAABAAAQAAAAAIA=</HashCode>
+      <FileName>Medico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.MedicoForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAUAAAAA=</HashCode>
+      <FileName>MedicoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Paciente" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Paciente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.PacienteForm" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAEAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>PacienteForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Program" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.RecetaForm" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAAAACAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>RecetaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.ResultadoForm" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAiAAAACAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ResultadoForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Turno" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Properties.Resources" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejercicio11.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Ejercicio11.IGestorHospital">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAgAAQAAAQACAAAAAAAAAIIAQgAAQAAAAAgAACA=</HashCode>
+      <FileName>IGestorHospital.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

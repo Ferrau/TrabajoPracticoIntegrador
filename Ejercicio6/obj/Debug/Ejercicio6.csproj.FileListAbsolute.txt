@@ -1,0 +1,16 @@
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.Form1.resources
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.Properties.Resources.resources
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.csproj.GenerateResource.cache
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+D:\repositorios\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+D:\repositorios\Ejercicio6\bin\Debug\Ejercicio6.exe
+D:\repositorios\Ejercicio6\bin\Debug\Ejercicio6.pdb
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.exe
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.pdb
+D:\repositorios\Ejercicio6\bin\Debug\HotelDLL.dll
+D:\repositorios\Ejercicio6\bin\Debug\HotelDLL.pdb
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.csproj.Up2Date
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.FormHuesped.resources
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.FormHabitacion.resources
+D:\repositorios\Ejercicio6\obj\Debug\Ejercicio6.GestionReserva.resources

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorios\\Ejercicio6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\gestionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:gestionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\gestionreserva.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:gestionreserva.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\gestionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:gestionreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\formhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:formhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|D:\\repositorios\\Ejercicio6\\hoteldll\\hotelturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\hotelturistico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|D:\\repositorios\\Ejercicio6\\hoteldll\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|D:\\repositorios\\Ejercicio6\\hoteldll\\reservaconadicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\reservaconadicional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|D:\\repositorios\\Ejercicio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|D:\\repositorios\\Ejercicio6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|D:\\repositorios\\Ejercicio6\\formhuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:formhuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\formhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:formhabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|D:\\repositorios\\Ejercicio6\\hoteldll\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|d:\\repositorios\\ejercicio6\\formhuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5891AC4-697F-4824-8A49-0BE3F14880D9}|Ejercicio6.csproj|solutionrelative:formhuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|D:\\repositorios\\Ejercicio6\\hoteldll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|d:\\repositorios\\ejercicio6\\hoteldll\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD111411-E4CB-43F5-8B87-1E02545C8630}|HotelDLL\\HotelDLL.csproj|solutionrelative:hoteldll\\huesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelTuristico.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\HotelTuristico.cs",
+              "RelativeDocumentMoniker": "HotelDLL\\HotelTuristico.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\HotelTuristico.cs",
+              "RelativeToolTip": "HotelDLL\\HotelTuristico.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAawFEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:02:10.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Reserva.cs",
+              "RelativeDocumentMoniker": "HotelDLL\\Reserva.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Reserva.cs",
+              "RelativeToolTip": "HotelDLL\\Reserva.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T03:58:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaConAdicional.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\ReservaConAdicional.cs",
+              "RelativeDocumentMoniker": "HotelDLL\\ReservaConAdicional.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\ReservaConAdicional.cs",
+              "RelativeToolTip": "HotelDLL\\ReservaConAdicional.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIAywA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:45:55.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Habitacion.cs",
+              "RelativeDocumentMoniker": "HotelDLL\\Habitacion.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Habitacion.cs",
+              "RelativeToolTip": "HotelDLL\\Habitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwGMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:05:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "HotelDLL\\ClassDiagram1.cd",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\ClassDiagram1.cd",
+              "RelativeToolTip": "HotelDLL\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-07-05T05:45:48.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Huesped.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Huesped.cs",
+              "RelativeDocumentMoniker": "HotelDLL\\Huesped.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\HotelDLL\\Huesped.cs",
+              "RelativeToolTip": "HotelDLL\\Huesped.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAD4v1UAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:04:16.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 639,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionReserva.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\GestionReserva.cs",
+              "RelativeDocumentMoniker": "GestionReserva.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\GestionReserva.cs",
+              "RelativeToolTip": "GestionReserva.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA9wBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:04:05.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionReserva.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\GestionReserva.cs",
+              "RelativeDocumentMoniker": "GestionReserva.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\GestionReserva.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionReserva.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:03:51.818Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionReserva.Designer.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\GestionReserva.Designer.cs",
+              "RelativeDocumentMoniker": "GestionReserva.Designer.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\GestionReserva.Designer.cs",
+              "RelativeToolTip": "GestionReserva.Designer.cs",
+              "ViewState": "AQIAAFABAAAAAAAAAAAWwFoBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:54:53.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHabitacion.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\FormHabitacion.cs",
+              "RelativeDocumentMoniker": "FormHabitacion.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\FormHabitacion.cs",
+              "RelativeToolTip": "FormHabitacion.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAWwDIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:37:23.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAiwIgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T12:43:00.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHabitacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\FormHabitacion.cs",
+              "RelativeDocumentMoniker": "FormHabitacion.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\FormHabitacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormHabitacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:36:07.847Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHuesped.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\FormHuesped.cs",
+              "RelativeDocumentMoniker": "FormHuesped.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\FormHuesped.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormHuesped.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:04:26.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T01:49:09.788Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormHuesped.cs",
+              "DocumentMoniker": "D:\\repositorios\\Ejercicio6\\FormHuesped.cs",
+              "RelativeDocumentMoniker": "FormHuesped.cs",
+              "ToolTip": "D:\\repositorios\\Ejercicio6\\FormHuesped.cs",
+              "RelativeToolTip": "FormHuesped.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T01:05:09.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

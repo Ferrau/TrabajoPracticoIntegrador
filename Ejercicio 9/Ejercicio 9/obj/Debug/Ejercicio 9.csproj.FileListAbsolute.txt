@@ -1,0 +1,32 @@
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\bin\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\bin\Debug\ObservatorioDLL.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Administracion.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Form1.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Properties.Resources.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.RegistroCuerpoCeleste.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.RegistroDescubridor.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercici.76615289.Up2Date
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\bin\Debug\ObservatorioDLL.dll
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\bin\Debug\ObservatorioDLL.pdb
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Administracion.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Form1.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.Properties.Resources.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.RegistroCuerpoCeleste.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio_9.RegistroDescubridor.resources
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.GenerateResource.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercici.76615289.Up2Date
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\brian\OneDrive\Escritorio\Programacion\POO\TP_Integrador\Ejercicio 9\obj\Debug\Ejercicio 9.pdb
